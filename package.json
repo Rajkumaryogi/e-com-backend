@@ -1,0 +1,24 @@
+{
+  "name": "e-com-backend",
+  "version": "1.0.0",
+  "description": "backend for ecommerce website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajkumaryogi/e-com-backend.git"
+  },
+  "author": "yogi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajkumaryogi/e-com-backend/issues"
+  },
+  "homepage": "https://github.com/Rajkumaryogi/e-com-backend#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
